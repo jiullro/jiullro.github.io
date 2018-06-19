@@ -1,2 +1,2 @@
-# jiullro.github.io
-Primer sitio web
+# web
+Repositorio de código con ejemplo de página web sencilla pero eficaz.
